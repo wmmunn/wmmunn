@@ -1,10 +1,10 @@
 # Network Tooling Portfolio
 
-This page highlights public examples of my Python-based, AI-assisted network automation work. These projects focus on making recurring network operations safer, more repeatable, and easier to review.
+This page showcases public examples of my Python-based, AI-assisted network automation tools. These projects focus on making recurring network operations safer, more repeatable, and easier to review.
 
 ## Project Themes
 
-My tools generally fall into a few categories:
+My tools generally address these areas:
 
 - Network refresh and migration planning
 - Configuration comparison and normalization
@@ -15,36 +15,36 @@ My tools generally fall into a few categories:
 
 ## Public Projects
 
-### network-refresh-toolkit
-
-A public-facing toolkit for network refresh planning and workflow documentation.
-
-Repository: [network-refresh-toolkit](https://github.com/wmmunn/network-refresh-toolkit)
-
 ### fiber-link-optics-visualizer-public
 
-A tool for visualizing fiber link and optics relationships in a way that is easier for operators to review.
+A GUI and CLI tool for visualizing fiber links and transceiver optics data. It helps operators review connectivity, signal values, and link budget details in a clearer format.
 
-Repository: [fiber-link-optics-visualizer-public](https://github.com/wmmunn/fiber-link-optics-visualizer-public)
+**Repository:** [fiber-link-optics-visualizer-public](https://github.com/wmmunn/fiber-link-optics-visualizer-public)
+
+### network-refresh-toolkit
+
+Core utilities and documentation for network refresh planning, including topology mapping and structured output generation.
+
+**Repository:** [network-refresh-toolkit](https://github.com/wmmunn/network-refresh-toolkit)
 
 ### Switch-Refresh-Configuration-Import-Tool
 
-A Python tool focused on importing selected switch refresh values into reviewable planning outputs.
+A planning tool that imports selected values from switch refresh requests into reviewable build sheets and target configuration planning outputs.
 
-Repository: [Switch-Refresh-Configuration-Import-Tool](https://github.com/wmmunn/Switch-Refresh-Configuration-Import-Tool)
+**Repository:** [Switch-Refresh-Configuration-Import-Tool](https://github.com/wmmunn/Switch-Refresh-Configuration-Import-Tool)
 
 ## Engineering Focus
 
 Across these projects, I prioritize:
 
-- Human review before execution
-- Dry-run and preview behavior
-- Clear plain-text or Markdown output
-- Sanitized public examples
+- Human review before live execution
+- Dry-run and preview modes
+- Clear plain-text and Markdown outputs
+- Sanitized public examples only
 - Small, testable Python modules
 - Separation between parsing, logic, formatting, and I/O
-- Documentation that distinguishes confirmed behavior from planned work
+- Documentation that clearly separates confirmed behavior from planned work
 
 ## Related
 
-- [Safety-First Network Automation](./safety-first-network-automation.md)
+**[Safety-First Network Automation](./safety-first-network-automation.md)**
