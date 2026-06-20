@@ -8,5 +8,7 @@ My work combines network engineering experience, Python-based tooling, and AI-as
 
 I build practical tools for network refresh, migration, validation, documentation, and change workflows, with an emphasis on human review, dry-run behavior, sanitized fixtures, and operator-readable outputs.
 
+## More
+
 - [Safety-First Network Automation](./safety-first-network-automation.md)
 - [Network Tooling Portfolio](./network-tooling-portfolio.md)
